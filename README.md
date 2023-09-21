@@ -1,4 +1,4 @@
-Purpose: testing API with GEO location and images.
+**Purpose:** testing API with GEO location and images.
 
 # API Thailand Restaurant
 * Bootstrap 5.3
